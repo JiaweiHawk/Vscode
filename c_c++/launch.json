@@ -6,7 +6,7 @@
             "type": "cppdbg",                         
             "request": "launch",                        
             "targetArchitecture": "x86",                
-            "program": "${workspaceRoot}\\${fileBasenameNoExtension}.exe",                 
+            "program": "${fileDirname}\\${fileBasenameNoExtension}.exe",                 
             "miDebuggerPath":"D:\\software\\mingw64\\bin\\gdb.exe", 
             "args": [],     
             "stopAtEntry": false,               
