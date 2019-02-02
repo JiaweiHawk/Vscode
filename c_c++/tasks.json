@@ -1,10 +1,10 @@
 {
     "version": "2.0.0",
     "command": "g++",
-    "args": ["-g","-std=c++11","${file}","-o","${workspaceRoot}\\${fileBasenameNoExtension}.exe"],
+    "args": ["-g","-std=c++11","-o","${file}.exe"],
     "problemMatcher": {
         "owner": "cpp",
-        "fileLocation": ["relative", "\\"],
+        "fileLocation": ["relative", "${workspaceRoot}"],
         "pattern": {
             "regexp": "^(.*):(\\d+):(\\d+):\\s+(warning|error):\\s+(.*)$",
             "file": 1,
