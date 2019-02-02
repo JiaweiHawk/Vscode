@@ -3,10 +3,9 @@
         {
             "name": "Win32",
             "includePath": [
-                "D:/software/mingw64/include",
-                "D:/software/mingw64/lib",
-                "D:/software/mingw64/x86_64-w64-mingw32/include",
-                "D:/software/mingw64/x86_64-w64-mingw32/lib"
+                "D:/software/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include",
+                "D:/software/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed",
+                "D:/software/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"
             ],
             "defines": [
                 "_DEBUG",
@@ -17,10 +16,9 @@
             "intelliSenseMode": "msvc-x64",
             "browse": {
                 "path": [
-                    "D:/software/mingw64/include",
-                    "D:/software/mingw64/lib",
-                    "D:/software/mingw64/x86_64-w64-mingw32/include",
-                    "D:/software/mingw64/x86_64-w64-mingw32/lib"
+                    "D:/software/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include",
+                    "D:/software/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed",
+                    "D:/software/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"
                 ]
             },
             "limitSymbolsToIncludedHeaders": true,
