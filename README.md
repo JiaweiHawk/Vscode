@@ -1,5 +1,6 @@
 # This is my settings about Vscode 
 ## importantly,change ***`Tool Bar Location`*** to ***`docked`***
+## importantly,change ***`Snippet Suggestions`*** to ***`None`***
 *includes* : 
 1. *java* :  ***.vscode_java*** 
 ***
