@@ -1,6 +1,6 @@
 # This is my settings about Vscode
 ## importantly,change ***`Tool Bar Location`*** to ***`docked`***
-## importantly,change ***`Snippet Suggestions`*** to ***`Top`***, and according to [Header Comment Help](http://example.com/) to add global head-comment.
+## importantly,change ***`Snippet Suggestions`*** to ***`Top`***, and according to [Header Comment Help](https://github.com/JiaweiHawk/Vscode/blob/master/Header%20Comment%20Help.md) to add global head-comment.
 *includes* : 
 1. *java* :  ***.vscode_java*** 
 ***
