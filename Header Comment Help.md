@@ -30,6 +30,7 @@ To open up a snippet file for editing, select ***User Snippets*** under `File` >
                 "#################################################################################",
                 "$BLOCK_COMMENT_END",
                 //块注释结束，根据不同语言自动微调
+                "",
                 "${0}",
             ],
             "description": "Headers Comment"
