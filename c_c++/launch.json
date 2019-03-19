@@ -10,9 +10,9 @@
             "miDebuggerPath":"D:\\software\\mingw64\\bin\\gdb.exe", 
             "args": [],     
             "stopAtEntry": false,               
-            "cwd": "${workspaceRoot}",                  
+            "cwd": "\\",                  
             "externalConsole": true,                  
-            "preLaunchTask": "g++"　　                  
+            "preLaunchTask": "g++"               
             }
     ]
  }
