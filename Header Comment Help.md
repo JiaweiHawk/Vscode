@@ -10,7 +10,7 @@ To open up a snippet file for editing, select ***User Snippets*** under `File` >
 	// Placeholders with the same ids are connected.
 	// Example:
 	 "Headers comment": {
-	 	"prefix": "head",
+	 	"prefix": "commit",
 	 	"body": [
 			
 			"$BLOCK_COMMENT_START****************************************************************************************",
