@@ -35,4 +35,4 @@ To open up a snippet file for editing, select ***User Snippets*** under `File` >
 	 }
 }
 ``` 
-## Then, every time you want to write a head-comment, just code `head`, that is enough
+## Then, every time you want to write a head-comment, just code `commit`, that is enough
